@@ -2,7 +2,7 @@
 body{
 
     background-image: url("image/bg.jpg");
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat;
     
 

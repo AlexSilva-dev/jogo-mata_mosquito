@@ -92,7 +92,7 @@ function run() {
             break;
         case '3':
             tempo = 30
-            intervalo = 1300
+            intervalo = 1100
             break;
 
     }

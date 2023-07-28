@@ -83,7 +83,7 @@ function run() {
     switch (dificuldade) {
 
         case '1':
-            tempo = 2
+            tempo = 20
             intervalo = 2000
             break;
         case '2':
